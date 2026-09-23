@@ -1,0 +1,1 @@
+Creating a neural network from scratch using the MNIST database to classify handwritten numbers.
